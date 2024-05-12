@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button"
-import { ModeToggle } from "@/components/ui/mode-toogle"
+import { ModeToggle } from "@/components/mode-toogle"
 
 export default function Home() {
   return (
